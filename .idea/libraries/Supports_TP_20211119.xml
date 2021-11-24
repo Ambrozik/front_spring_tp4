@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Supports TP-20211119">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/json-simple.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Documents/Supports TP-20211119" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Documents/Supports TP-20211119" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../Documents/Supports TP-20211119" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Documents/Supports TP-20211119" recursive="false" type="SOURCES" />
+  </library>
+</component>

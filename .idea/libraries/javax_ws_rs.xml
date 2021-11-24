@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="javax.ws.rs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/javax.ws.rs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/jersey-apache-client-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/jersey-client-1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/jersey-core-1.13-b01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/jersey-server-1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/json-simple.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Documents/Supports TP-20211119/javax.ws.rs.jar!/" />
+    </SOURCES>
+  </library>
+</component>

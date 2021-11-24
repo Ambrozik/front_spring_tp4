@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="259.0" prefWidth="615.0" spacing="20.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.front_spring_tp4.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <AnchorPane prefHeight="200.0" prefWidth="200.0">
+      <TextField fx:id="idm" layoutX="214.0" layoutY="39.0" />
+        <TextField fx:id="namem" layoutX="214.0" layoutY="73.0" />
+        <TextField fx:id="factionm" layoutX="214.0" layoutY="117.0" />
+        <TextField fx:id="powerm" layoutX="214.0" layoutY="155.0" />
+        <TextField fx:id="hpm" layoutX="214.0" layoutY="200.0" />
+        <Button fx:id="validemButton" layoutX="261.0" layoutY="243.0" mnemonicParsing="false" onAction="#validUpdate" text="Valider" />
+        <Label fx:id="namemtxt" layoutX="147.0" layoutY="77.0" text="name" />
+        <Label fx:id="factionmtxt" layoutX="148.0" layoutY="121.0" text="faction" />
+        <Label fx:id="powermtxt" layoutX="149.0" layoutY="159.0" text="power" />
+        <Label fx:id="hpmtxt" layoutX="145.0" layoutY="204.0" text="hp" />
+        <Label layoutX="265.0" layoutY="14.0" text="Modifier" />
+       <Label fx:id="idmtxt" layoutX="155.0" layoutY="43.0" text="id" />
+       <Button layoutX="374.0" layoutY="39.0" mnemonicParsing="false" onAction="#modifierRes" text="choisir id du livre" />
+    </AnchorPane>
+
+    <Button mnemonicParsing="false" onAction="#retour" text="Retour" />
+</VBox>

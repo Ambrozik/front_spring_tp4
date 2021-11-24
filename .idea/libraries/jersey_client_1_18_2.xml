@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jersey-client-1.18.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Documents/Support TP3-20211119/jersey-client-1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Support TP3-20211119/javax.ws.rs-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Support TP3-20211119/jersey-apache-client-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Support TP3-20211119/jersey-server-1.18.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Support TP3-20211119/org.apache.commons.httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Documents/Support TP3-20211119/jersey-core-1.13-b01.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Documents/Support TP3-20211119" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../Documents/Support TP3-20211119" recursive="false" />
+  </library>
+</component>
